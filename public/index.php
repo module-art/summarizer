@@ -16,8 +16,8 @@
     <section id="content" class="container">
 
       <section id="header" class="row justify-content-around">
-        <a class="btn btn-success btn-lg" href="https://github.com/module-art/popover-suggest/archive/master.zip" role="button"><i class="fas fa-download"></i> Download zip</a>
-        <a class="btn btn-primary btn-lg" href="https://github.com/module-art/popover-suggest" role="button"><i class="fab fa-github"></i> View on Github</a>
+        <a class="btn btn-success btn-lg" href="https://framagit.org/module-art/summarizer/-/archive/master/summarizer-master.zip" role="button"><i class="fas fa-download"></i> Download zip</a>
+        <a class="btn btn-primary btn-lg" href="https://github.com/module-art/summarizer.git" role="button"><i class="fab fa-github"></i> View on Github</a>
       </section>
 
       <section class="row center-card">
