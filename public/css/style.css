@@ -1,0 +1,40 @@
+body {
+  min-height: 100vh;
+  background: linear-gradient(217deg, rgba(200, 50, 160, 0.8), rgba(255, 0, 0, 0) 70.71%), linear-gradient(127deg, rgba(10, 25, 120, 0.8), rgba(0, 255, 0, 0) 70.71%), linear-gradient(336deg, rgba(0, 120, 155, 0.8), rgba(0, 0, 255, 0) 70.71%);
+}
+
+.card {
+  margin-top: 40px;
+}
+
+#header {
+  margin-top: 50px;
+}
+
+#main-card {
+  margin-bottom: 40px;
+}
+
+.card-header {
+  background-color: #d9aff3;
+}
+
+.card-footer {
+  background-color: #c8e2f6;
+}
+
+.popover {
+  max-width: unset;
+}
+.popover .result {
+  color: black;
+}
+
+pre {
+  margin: 20px;
+  padding: 20px;
+  color: white;
+  background-color: #342f38;
+}
+
+/*# sourceMappingURL=style.css.map */
