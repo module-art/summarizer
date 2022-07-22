@@ -16,7 +16,7 @@
     <section id="content" class="container">
 
       <section id="header" class="row justify-content-around">
-        <a class="btn btn-success btn-lg" href="https://framagit.org/module-art/summarizer/-/archive/master/summarizer-master.zip" role="button"><i class="fas fa-download"></i> Download zip</a>
+        <a class="btn btn-success btn-lg" href="http://summarizer.module-art.fr/js/summarizer.js" role="button"><i class="fas fa-eye"></i> Source code</a>
         <a class="btn btn-primary btn-lg" href="https://github.com/module-art/summarizer.git" role="button"><i class="fab fa-github"></i> View on Github</a>
       </section>
 
@@ -62,7 +62,7 @@
             </div>
           </div>
           <div class="card-footer">
-<p>Texts from <a href="https://www.blindtextgenerator.com">blindtextgenerator.com</a></p>
+<p>Text from <a href="https://www.blindtextgenerator.com">blindtextgenerator.com</a></p>
           </div>
         </div>
       </section>
@@ -76,6 +76,12 @@
           <pre>
 <?php 
 echo htmlspecialchars('<div id="summary"></div>');
+?>
+          </pre>
+          <p>Get the script.</p>
+          <pre>
+<?php 
+echo htmlspecialchars('<script src="pathToJs/summarizer.min.js"></script>');
 ?>
           </pre>
           <h5 class="card-title">Javascript</h5>
